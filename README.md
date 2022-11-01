@@ -1,5 +1,5 @@
 # Testes-Java-1
 
-Herança/Polimorfismo
+Herança - Polimorfismo
 
 Sobrescrita/Sobrecarga
